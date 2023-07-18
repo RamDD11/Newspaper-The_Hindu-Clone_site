@@ -151,3 +151,68 @@ body{
     right: 600px;
     top: 40px;
 }
+
+.news2{
+    position: relative;
+    bottom: 868px;
+    left: 220px;
+    float: left;
+    width: 22%;
+}
+
+.img {
+    width: 300px;
+    height: 180px;
+}
+
+.figc{
+    font-size: 12px;
+}
+
+.pp1{
+    font-size: 33px;
+    margin-top: 10px;
+}
+
+.pp2{
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+.pp2-1{
+    text-decoration: underline;
+}
+
+.pp3{
+    position: absolute;
+    width: 50%;
+}
+
+.pp4{
+    position: absolute;
+    width: 50%;
+    left: 170px;
+    top: 350px;
+}
+
+.pp5{
+    position: absolute;
+    width: 50%;
+    left: 170px;
+    top: 965px;
+}
+
+.pp5-1{
+    color: rgb(216, 5, 5);
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.pp6{
+    background-color: grey;
+    width: .7px;
+    height: 1010px;
+    position: absolute;
+    top: -7px;
+    left: 330px;
+}
