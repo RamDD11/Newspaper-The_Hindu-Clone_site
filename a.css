@@ -161,7 +161,7 @@ body{
 }
 
 .img {
-    width: 300px;
+    width: 310px;
     height: 180px;
 }
 
@@ -215,4 +215,64 @@ body{
     position: absolute;
     top: -7px;
     left: 330px;
+}
+
+.nearby{
+    width: 12%;
+    position: absolute;
+    top: 550px;
+    left: 84.7%;
+}
+
+.nearby>img{
+    width: 150px;
+}
+
+.nearby1{
+    color: rgb(202, 3, 3);
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.nearby2{
+    font-weight: bolder;
+    font-size: 23px;
+    margin-top: 5px;
+}
+
+.nearby3{
+    margin-top: -10px;
+    font-size: 15.552px;
+}
+
+.nearby4{
+    color: rgb(202, 3, 3);
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top: -13px;
+}
+
+.nearby5{
+    background-color: grey;
+    width: 180px;
+    height: .7px;
+    margin-top: -10px;
+}
+
+.nearby6{
+    margin-top: -5px;
+}
+
+.nearby7{
+    color: rgb(202, 3, 3);
+    font-weight: bolder;
+}
+
+.hr3{
+    background-color: grey;
+    width: 535px;
+    height: .7px;
+    position: relative;
+    top: 170px;
+    left: 838px;
 }
